@@ -1,2 +1,0 @@
-# Udeviklerne
-Hello Bot
